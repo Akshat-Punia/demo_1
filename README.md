@@ -1,7 +1,7 @@
 # demo_1
 this is my first git repo
 <br>
-Author -- Akshat Punia
+Author -- Akshat 
 <br>
 
 qualification -- school pass
